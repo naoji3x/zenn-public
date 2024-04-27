@@ -1,3 +1,3 @@
 # README
 
-This is the repository which contains the assets for my zenn articles.
+[zenn](https://zenn.dev/naoji)の記事で公開するアセット用のリポジトリです。
